@@ -1,22 +1,26 @@
-## Hi everyone, i´m Alejandro Barrientos Escalante 👋
-- 21 Years old
+# Hi there! I'm Alejandro Barrientos Escalante 👋
 
-## Actually Study in Tecnologico nacional de Mexico: Campus Occidente del Estado de Hidalgo 📕
+## About Me
+- **Age:** 21
+- **Education:** Currently studying at Tecnológico Nacional de México, Campus Occidente del Estado de Hidalgo 📕
 
-## Also have some repositories with important proyects:
-- E-commerce Proyect: https://github.com/CHILTIC-T/website
-- My Porfolio: https://github.com/ESCALIA-Corporation/Website
-- Python Flask Website with docker: https://github.com/ESCALIA-Corporation/python-website
-- Academic Asesories Platform: https://github.com/ESCALIA-Corporation/Plataforma-educativa
-- Encription Calculator with Flask: https://github.com/beofalejandro/Calculadora-de-Encriptacion
+## Projects
+I have several repositories showcasing my important projects:
 
-## My Skills
-- SLQ
-- Javascript
+- **E-commerce Project:** [View Repository](https://github.com/CHILTIC-T/website)
+- **My Portfolio:** [View Repository](https://github.com/ESCALIA-Corporation/Website)
+- **Python Flask Website with Docker:** [View Repository](https://github.com/ESCALIA-Corporation/python-website)
+- **Academic Advisory Platform:** [View Repository](https://github.com/ESCALIA-Corporation/Plataforma-educativa)
+- **Encryption Calculator with Flask:** [View Repository](https://github.com/beofalejandro/Calculadora-de-Encriptacion)
+
+## Skills
+I have experience in the following areas:
+- SQL
+- JavaScript
 - Python
-- IOT
+- IoT (Internet of Things)
 - PHP
-- Network Engienering
+- Network Engineering
 - HTML
 - CSS
 - Bootstrap
@@ -26,17 +30,5 @@
 - Linux
 - Arduino
 
-<!--
-**beofalejandro/beofalejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect!
+Feel free to reach out if you want to collaborate on projects, have questions, or just want to connect!
