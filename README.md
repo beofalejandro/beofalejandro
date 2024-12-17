@@ -32,3 +32,8 @@ I have experience in the following areas:
 
 ## Let's Connect!
 Feel free to reach out if you want to collaborate on projects, have questions, or just want to connect!
+
+## Credentials and Courses
+![Badge Name]()
+
+-Google Cloud Computing Foundations Certificate
