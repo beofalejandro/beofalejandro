@@ -34,6 +34,6 @@ I have experience in the following areas:
 Feel free to reach out if you want to collaborate on projects, have questions, or just want to connect!
 
 ## Credentials and Courses
-![Badge Name]()
+![Google Cloud Badge](https://www.credly.com/badges/72235c83-ddff-45c5-bc45-3994d2990093/public_url)
 
 -Google Cloud Computing Foundations Certificate
