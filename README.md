@@ -1,7 +1,9 @@
 # Hi there! I'm Alejandro Barrientos Escalante 👋
 
-<img src="./badges/google-cloud-computing-foundations-certificate.png" alt="Google Cloud Badge" width="80" />
-<img src="./badges/github-foundations.png" alt="GitHub Badge" width="80" />
+<div style="display: flex; justify-content: center;">
+        <img src="./badges/google-cloud-computing-foundations-certificate.png" alt="Google Cloud Badge" width="80" />
+        <img src="./badges/github-foundations.png" alt="GitHub Badge" width="80" />
+</div>
 
 ## About Me
 
@@ -66,5 +68,5 @@ Feel free to reach out if you want to collaborate on projects, have questions, o
 
 - **CISCO Network Security Certificate:**
 
---- 
+---
 Made with ❤️ by [Alejandro Barrientos Escalante](https://github.com/beofalejandro) and ESCALIA Corporation
