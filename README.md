@@ -4,6 +4,11 @@
 - **Age:** 21
 - **Education:** Currently studying at Tecnológico Nacional de México, Campus Occidente del Estado de Hidalgo 📕
 
+## Meet my own organizations
+- **ESCALIA Corporation:** [ESCALIA Corporation](https://github.com/ESCALIA-Corporation)
+- **CHILTIC-T:** [ESCALIA Corporation](https://github.com/CHILTIC-T)
+- **Bionovaa:** [ESCALIA Corporation](https://github.com/Bionovaa)
+
 ## Projects
 I have several repositories showcasing my important projects:
 
@@ -34,6 +39,7 @@ I have experience in the following areas:
 Feel free to reach out if you want to collaborate on projects, have questions, or just want to connect!
 
 ## Credentials and Courses
+
+-Google Cloud Computing Foundations Certificate:
 ![Google Cloud Badge](https://www.credly.com/badges/72235c83-ddff-45c5-bc45-3994d2990093/public_url)
 
--Google Cloud Computing Foundations Certificate
