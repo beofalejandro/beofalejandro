@@ -10,14 +10,6 @@
 - **Age:** 21
 - **Education:** Currently studying at Tecnológico Nacional de México, Campus Occidente del Estado de Hidalgo 📕
 
-## GitHub Stats
-
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=beofalejandro&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beofalejandro&layout=compact&theme=radical)
-
 ## Meet my own organizations
 
 - **ESCALIA Corporation:** [ESCALIA Corporation](https://github.com/ESCALIA-Corporation)
